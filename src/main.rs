@@ -1,3 +1,6 @@
+#[allow(unused)]
+mod card;
+
 use macroquad::{color, window};
 
 fn window_conf() -> window::Conf {
